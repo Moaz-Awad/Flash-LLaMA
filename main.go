@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"source-code-review/config"  // For ASCII art and colored logging
+	"source-code-review/config" // For ASCII art and colored logging
 	"source-code-review/internal/markdown"
 	"source-code-review/internal/scanner"
 )
