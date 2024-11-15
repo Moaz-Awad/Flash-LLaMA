@@ -19,9 +19,9 @@ func ShowASCII() {
 	_____ __    _____ _____ _____ 
 	|   __|  |  |  _  |   __|  |  |
 	|   __|  |__|     |__   |     |
-	|__|  |_____|__|__|_____|__|__|  v1.0.1
+	|__|  |_____|__|__|_____|__|__|  v 0.1
 					
-						By Mohammed Fathy @Secfathy`
+						By $ilent $pectre5`
 	fmt.Println(asciiArt)
 	fmt.Println("")
 }
