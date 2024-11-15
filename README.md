@@ -21,7 +21,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/secfathy/flash.git
+    git clone https://github.com/Moaz-Awad/Flash-LLaMA.git
     ```
 
 2. Navigate to the project directory:
@@ -89,4 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, feel free to reach out to the repository owner.
 
 ---
-modified by @Moaz-Awad(https://github.com/Moaz-Awad)
+Modified by @Moaz-Awad
