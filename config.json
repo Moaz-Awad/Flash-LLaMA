@@ -1,11 +1,5 @@
 {
-    "azure_openai": {
-      "endpoint": "",
-      "api_key": "",
-      "deployment_name": "",
-      "api_version": ""
-    },
-    "openai": {
-      "api_key": "your-openai-api-key"
-    }
+  "llama": {
+    "api_url": "http://localhost:8000/generate"
   }
+}
