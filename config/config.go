@@ -6,17 +6,11 @@ import (
 	"os"
 )
 
-// Config structure to hold all credentials
+// Config structure to hold LLaMA configuration
 type Config struct {
-	AzureOpenAI struct {
-		Endpoint       string `json:"endpoint"`
-		APIKey         string `json:"api_key"`
-		DeploymentName string `json:"deployment_name"`
-		APIVersion     string `json:"api_version"`
-	} `json:"azure_openai"`
-	OpenAI struct {
-		APIKey string `json:"api_key"`
-	} `json:"openai"`
+	LLaMA struct {
+		APIURL string `json:"api_url"`
+	} `json:"llama"`
 }
 
 // LoadConfig loads the configuration from a JSON file
